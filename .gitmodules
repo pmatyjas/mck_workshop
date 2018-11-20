@@ -1,0 +1,6 @@
+[submodule "quiz_backend"]
+	path = quiz_backend
+	url = https://github.com/grzeskiba/quiz_backend
+[submodule "quiz_client"]
+	path = quiz_client
+	url = https://github.com/lukasz-z/workshop-quiz-client
